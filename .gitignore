@@ -1,0 +1,4 @@
+__pycache__/
+expenses.db
+telegram.conf
+users.conf
